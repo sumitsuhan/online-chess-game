@@ -1,13 +1,61 @@
-Chess Game
+
+# Chess Game
+
 A web-based chess game developed using HTML, CSS, and JavaScript. The game allows users to play against a computer (single player) or with another player (multiplayer). It features customizable board colors, a move history tracker, and a chat system for multiplayer mode.
 
-Features
-Single Player Mode: Play against a computer opponent.
-Multiplayer Mode: Connect with another player and compete in real-time.
-Customizable Board: Choose from different color schemes for the chessboard.
-Move History: Track the sequence of moves made during the game.
-Chat System: Communicate with your opponent during multiplayer matches.
-Technologies Used
-HTML: Structure of the game interface.
-CSS: Styling and layout of the game components.
-JavaScript: Game logic, interactivity, and communication between players.
+## Features
+
+- **Single Player Mode:** Play against a computer opponent.
+- **Multiplayer Mode:** Connect with another player and compete in real-time.
+- **Customizable Board:** Choose from different color schemes for the chessboard.
+- **Move History:** Track the sequence of moves made during the game.
+- **Chat System:** Communicate with your opponent during multiplayer matches.
+
+## Technologies Used
+
+- **HTML:** Structure of the game interface.
+- **CSS:** Styling and layout of the game components.
+- **JavaScript:** Game logic, interactivity, and communication between players.
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/chess-game.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd chess-game
+   ```
+3. Open the `index.html` file in your web browser.
+
+## Folder Structure
+
+- `index.html` - Main file for the game interface.
+- `css/` - Contains all the CSS stylesheets.
+  - `styles.css` - Main stylesheet for custom styles.
+  - `semantic.min.css` - Semantic UI framework for styling.
+  - `chessboard-1.0.0.min.css` - Styles for the chessboard.
+- `js/` - Contains JavaScript files for the game.
+  - `app.js` - Main JavaScript file with game logic and interactivity.
+- `img/` - Contains image files like icons used in the game.
+- `mp3/` - Audio files for sound effects during the game.
+
+## Customization
+
+- **Board Colors:** You can customize the board colors by selecting the available options in the game.
+- **Sound Effects:** Sound effects can be toggled by editing the `app.js` file.
+
+## Future Improvements
+
+- **AI Difficulty Levels:** Add different difficulty levels for the computer opponent.
+- **Enhanced Multiplayer:** Improve real-time interaction and stability in multiplayer mode.
+- **Mobile Responsiveness:** Optimize the game interface for mobile devices.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+This README provides a clear overview of the project, its features, how to use it, and potential areas for future development.
