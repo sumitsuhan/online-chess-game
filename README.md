@@ -17,18 +17,6 @@ A web-based chess game developed using HTML, CSS, and JavaScript. The game allow
 - **CSS:** Styling and layout of the game components.
 - **JavaScript:** Game logic, interactivity, and communication between players.
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/chess-game.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd chess-game
-   ```
-3. Open the `index.html` file in your web browser.
-
 
 ## Customization
 
