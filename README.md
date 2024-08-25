@@ -29,33 +29,15 @@ A web-based chess game developed using HTML, CSS, and JavaScript. The game allow
    ```
 3. Open the `index.html` file in your web browser.
 
-## Folder Structure
-
-- `index.html` - Main file for the game interface.
-- `css/` - Contains all the CSS stylesheets.
-  - `styles.css` - Main stylesheet for custom styles.
-  - `semantic.min.css` - Semantic UI framework for styling.
-  - `chessboard-1.0.0.min.css` - Styles for the chessboard.
-- `js/` - Contains JavaScript files for the game.
-  - `app.js` - Main JavaScript file with game logic and interactivity.
-- `img/` - Contains image files like icons used in the game.
-- `mp3/` - Audio files for sound effects during the game.
 
 ## Customization
 
-- **Board Colors:** You can customize the board colors by selecting the available options in the game.
-- **Sound Effects:** Sound effects can be toggled by editing the `app.js` file.
-
+- **Board Colors:** 
+- **Sound Effects:**
 ## Future Improvements
 
 - **AI Difficulty Levels:** Add different difficulty levels for the computer opponent.
 - **Enhanced Multiplayer:** Improve real-time interaction and stability in multiplayer mode.
 - **Mobile Responsiveness:** Optimize the game interface for mobile devices.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-This README provides a clear overview of the project, its features, how to use it, and potential areas for future development.
